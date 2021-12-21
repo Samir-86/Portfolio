@@ -13,7 +13,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 1: Name of the Project 2](http://samir-kanine.io/project2)
+# [Project 2: Name of the Project 2](http://samir-kanine.io/project2)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
