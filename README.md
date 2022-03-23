@@ -4,7 +4,7 @@
 # Education
 * D.U. Conception et Management de Projets Numériques, *Université Saint-Quentin-en-Yvelines, Paris Saclay*, 2020-2021
 * Licence Professionnelle Nouvelles Technologies de l'Information, *Université d'Aix-Marseille I*, 2002-2003
-* Maîtrise de Biochime - Option: Immunologie, *Université d'Aix-Marseille II*, 1991-1992
+* Maîtrise de Biochimie - Option: Immunologie, *Université d'Aix-Marseille II*, 1991-1992
 
 # [Project 1: Name of the Project 1](http://samir-kanine.io/project1)
 
