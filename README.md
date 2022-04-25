@@ -1,4 +1,4 @@
-# Samir KANINE
+# Bonjour tout le monde! je suis Samir KANINE
 *Data Scientist
 
 # Education
