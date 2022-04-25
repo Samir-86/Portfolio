@@ -5,7 +5,7 @@ I love working with
 
 <figure>
   <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" 
-       alt="">
+       alt="Flask">
   <figcaption></figcaption>
 </figure>
 
