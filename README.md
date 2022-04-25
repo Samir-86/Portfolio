@@ -2,12 +2,9 @@
 I'm using Python, HTML5, CSS3, Javascript and SQL to build web applications.
 
 I love working with 
-
-<figure>
-  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" 
-       alt="Flask">
-  <figcaption></figcaption>
-</figure>
+<p><img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png"
+     title="Flask"
+     alt="Flask Official Logo"></p>
 
 Flask, Django, Java EE, .NET, PostgreSQL and Docker.
 
