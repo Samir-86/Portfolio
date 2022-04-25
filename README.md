@@ -1,5 +1,7 @@
-# Bonjour tout le monde! je suis Samir KANINE
-*Data Scientist
+# Hello, I am Samir KANINE
+I'm using python, HTML Javascript and SQL to build web applications.
+
+## I love working with
 
 # Education
 * D.U. Conception et Management de Projets Numériques, *Université Saint-Quentin-en-Yvelines, Paris Saclay*, 2020-2021
