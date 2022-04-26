@@ -48,8 +48,13 @@ Technologies that I use daily :
           title="Vue.js 3"
           alt="Vue.js3 logo"
           width="20" height="20">
+     
+     <img src="https://pluspng.com/img-png/react-logo-png-react-png-amp-free-react-png-transparent-images-68250-pluspng-512x512.png"
+          title="React"
+          alt="React logo"
+          width="25" height="20">
  </p>
- 
+  
 # Education
 * D.U. Conception et Management de Projets Numériques, *Université Saint-Quentin-en-Yvelines, Paris Saclay*, 2020-2021
 * Licence Professionnelle Nouvelles Technologies de l'Information, *Université d'Aix-Marseille I*, 2002-2003
