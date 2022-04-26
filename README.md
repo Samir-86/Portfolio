@@ -8,7 +8,7 @@ I love using **Python** for :
  * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
  * ✨and much more. ✨
 
-###Technologies that I use daily :
+*Technologies* that I use daily :
 <p>
      <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"
           title="Dot Net"
@@ -40,7 +40,7 @@ I love using **Python** for :
           width="30" height="20"> 
 </p>
 
-Tools that I use :
+*Tools* that I use :
 
 <p>
      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7wZxL6deCtG0-w4aq9ihVwHaIl%26pid%3DApi&f=1"
