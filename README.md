@@ -30,7 +30,7 @@ I love using **Python** for :
      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pTjFl6HiQcltyZ4F8rAbegHaBz%26pid%3DApi&f=1"
           title="Java EE"
           alt="Java EE logo"
-          width="50" height="20">
+          width="70" height="20">
      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png?20200524033331"
           title="Dot Net"
           alt="Dot Net logo"
