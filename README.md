@@ -1,4 +1,5 @@
-![My photo](https://media-exp1.licdn.com/dms/image/D4E35AQF5HrZK_lO5xA/profile-framedphoto-shrink_100_100/0/1626310260606?e=2147483647&v=beta&t=xCyEwJplAdywFHPlZbJr_xvOYz44Qtyuqn9YYWJCRyE)
+<img src="https://media-exp1.licdn.com/dms/image/D4E35AQF5HrZK_lO5xA/profile-framedphoto-shrink_100_100/0/1626310260606?e=2147483647&v=beta&t=xCyEwJplAdywFHPlZbJr_xvOYz44Qtyuqn9YYWJCRyE"
+     width="150" height="150">
 
 ## Hello, IT World! 👋 I'm Samir KANINE.
 
