@@ -1,8 +1,10 @@
-# Hello, IT World! 👋
-I'm a developer loving using Python for :
-     - data science using numpy, pandas and matplotlib,
+# Hello, IT World!  👋
+
+I love using **Python** for :
      
-     - building web applications with Flask, Django, .NET and Java EE.
+     - **data science** using _numpy_, _pandas_ and _matplotlib_,
+     - building web applications with _Flask_ and _Django_ frameworks.
+     - ✨and much more. ✨
 
 I love working with
 <p>
