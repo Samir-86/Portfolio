@@ -47,7 +47,12 @@ Technologies that I use daily :
      <img src="https://masteringjs.io/assets/images/vue/vue.png"
           title="Vue.js 3"
           alt="Vue.js3 logo"
-          width="20" height="20">    
+          width="20" height="20">
+     
+     <img src="https://masteringjs.io/assets/images/vue/vue.png"
+          title="Vue.js 3"
+          alt="Vue.js3 logo"
+          width="20" height="20"> 
  </p>
   
 # Education
