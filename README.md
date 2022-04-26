@@ -11,7 +11,7 @@ I love using **Python** for :
 *Technologies* that I use daily :
 <p>
      <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"
-          title="Dot Net"
+          title="Python"
           alt="Python logo"
           width="30" height="20">
      <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
@@ -21,7 +21,7 @@ I love using **Python** for :
      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.wRuHzBVWaR_An2W-r3PkzAHaE8%26pid%3DApi&f=1"
           title="Flask"
           alt="Flask official logo"
-          width="40" height="20">
+          width="50" height="20">
      <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
           title="Django"
           alt="Django official logo"
