@@ -2,23 +2,57 @@
 
 I love using **Python** for :
      
-     - data science using numpy, pandas and matplotlib,
-     - building web applications with Flask and <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
-          title="Django"
-          alt="Django Official Logo"
-          width="50" height="20"> frameworks.
-     - ✨and much more. ✨
+ * **Data Science** using _**numpy**_, _**pandas**_ and _**matplotlib**_.
+ * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
+ * ✨and much more. ✨
 
-I love working with
+Technologies that I use daily :
 <p>
+     <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"
+          title="Dot Net"
+          alt="Python logo"
+          width="30" height="20">
+     <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
+          title="Javascript"
+          alt="Javascript logo"
+          width="20" height="20">
+     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.wRuHzBVWaR_An2W-r3PkzAHaE8%26pid%3DApi&f=1"
+          title="Flask"
+          alt="Flask official logo"
+          width="40" height="20">
      <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
           title="Django"
-          alt="Django Official Logo"
+          alt="Django official logo"
           width="50" height="20">
+     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pTjFl6HiQcltyZ4F8rAbegHaBz%26pid%3DApi&f=1"
+          title="Dot Net"
+          alt="Dot Net logo"
+          width="50" height="20">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png?20200524033331"
+          title="Dot Net"
+          alt="Dot Net logo"
+          width="30" height="20">
+     <img src="https://www.postgresql.org/media/img/about/press/elephant.png"
+          title="Dot Net"
+          alt="Dot Net logo"
+          width="30" height="20"> 
+     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp"
+          title="Dot Net"
+          alt="Dot Net logo"
+          width="30" height="20"> 
 </p>
-     
 
-Flask, Django, Java EE, .NET, PostgreSQL and Docker.
+🌱 I’m learning :
+<p>
+     <img src="https://masteringjs.io/assets/images/vue/vue.png"
+          title="Vue.js 3"
+          alt="Vue.js3 logo"
+          width="20" height="20">
+     <img src="https://pluspng.com/img-png/logo-mongodb-png-standard-logo-4167.jpg"
+          title="mongoDB"
+          alt="mongoDB logo"
+          width="50" height="20">
+ </p>
 
 # Education
 * D.U. Conception et Management de Projets Numériques, *Université Saint-Quentin-en-Yvelines, Paris Saclay*, 2020-2021
