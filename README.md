@@ -46,11 +46,11 @@ Tools that I use :
      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7wZxL6deCtG0-w4aq9ihVwHaIl%26pid%3DApi&f=1"
           title="Jupyter"
           alt="Jupyter logo"
-          width="50" height="20">
+          width="40" height="20">
      <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp"
           title="Docker"
           alt="Docker logo"
-          width="30" height="20"> 
+          width="40" height="20"> 
 </p>
 
 🌱 I’m learning :
