@@ -1,5 +1,8 @@
 # Hello, IT World! 👋
-I'm using Python, HTML5, CSS3, Javascript and SQL to build web applications.
+I'm a developer loving using Python for :
+     - data science using numpy, pandas and matplotlib,
+     
+     - building web applications with Flask, Django, .NET and Java EE.
 
 I love working with
 <p>
