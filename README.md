@@ -48,12 +48,8 @@ Technologies that I use daily :
           title="Vue.js 3"
           alt="Vue.js3 logo"
           width="20" height="20">
-     <img src="https://pluspng.com/img-png/logo-mongodb-png-standard-logo-4167.jpg"
-          title="mongoDB"
-          alt="mongoDB logo"
-          width="50" height="20">
  </p>
-
+ 
 # Education
 * D.U. Conception et Management de Projets Numériques, *Université Saint-Quentin-en-Yvelines, Paris Saclay*, 2020-2021
 * Licence Professionnelle Nouvelles Technologies de l'Information, *Université d'Aix-Marseille I*, 2002-2003
