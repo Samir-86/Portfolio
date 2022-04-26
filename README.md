@@ -1,10 +1,14 @@
 # Hello, IT World! 👋
 I'm using Python, HTML5, CSS3, Javascript and SQL to build web applications.
 
-I love working with 
-<p><img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png"
-     title="Flask"
-     alt="Flask Official Logo"></p>
+I love working with
+<p>
+     <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
+          title="Django"
+          alt="Django Official Logo"
+          width="50" height="20">
+</p>
+     
 
 Flask, Django, Java EE, .NET, PostgreSQL and Docker.
 
