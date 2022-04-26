@@ -2,8 +2,11 @@
 
 I love using **Python** for :
      
-     - **data science** using _numpy_, _pandas_ and _matplotlib_,
-     - building web applications with _Flask_ and _Django_ frameworks.
+     - data science using numpy, pandas and matplotlib,
+     - building web applications with Flask and <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
+          title="Django"
+          alt="Django Official Logo"
+          width="50" height="20"> frameworks.
      - ✨and much more. ✨
 
 I love working with
