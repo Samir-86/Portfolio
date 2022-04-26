@@ -1,6 +1,6 @@
 ![MyPhoto](https://media-exp1.licdn.com/dms/image/D4E35AQF5HrZK_lO5xA/profile-framedphoto-shrink_100_100/0/1626310260606?e=2147483647&v=beta&t=xCyEwJplAdywFHPlZbJr_xvOYz44Qtyuqn9YYWJCRyE)
 
-### Hello, IT World!  I'm Samir KANINE. 👋
+## Hello, IT World! 👋 I'm Samir KANINE.
 
 I love using **Python** for :
      
@@ -8,7 +8,7 @@ I love using **Python** for :
  * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
  * ✨and much more. ✨
 
-Technologies that I use daily :
+###Technologies that I use daily :
 <p>
      <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"
           title="Dot Net"
@@ -44,7 +44,17 @@ Technologies that I use daily :
           width="30" height="20"> 
 </p>
 
+Tools that I use :
+
+<p>
+     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7wZxL6deCtG0-w4aq9ihVwHaIl%26pid%3DApi&f=1"
+          title="Jupyter"
+          alt="Jupyter logo"
+          width="30" height="20">
+</p>
+
 🌱 I’m learning :
+
 <p>
      <img src="https://masteringjs.io/assets/images/vue/vue.png"
           title="Vue.js 3"
