@@ -1,4 +1,6 @@
-# Hello, IT World!  👋
+![MyPhoto](https://media-exp1.licdn.com/dms/image/D4E35AQF5HrZK_lO5xA/profile-framedphoto-shrink_100_100/0/1626310260606?e=2147483647&v=beta&t=xCyEwJplAdywFHPlZbJr_xvOYz44Qtyuqn9YYWJCRyE)
+
+### Hello, IT World!  I'm Samir KANINE. 👋
 
 I love using **Python** for :
      
